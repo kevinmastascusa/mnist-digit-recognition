@@ -1,1 +1,2 @@
 # mnist-digit-recognition
+This code essentially trains a neural network to recognize handwritten digits from the MNIST dataset. It loads the dataset, preprocesses the data by scaling it, defines the architecture of the neural network, compiles the model with suitable settings, trains the model on the training data, evaluates the model on the test data, and prints the test accuracy as the final result.
